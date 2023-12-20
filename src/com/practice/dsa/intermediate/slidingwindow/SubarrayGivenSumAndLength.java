@@ -1,4 +1,4 @@
-package com.anirban.practice.dsa.intermediate.slidingwindow;
+package com.practice.dsa.intermediate.slidingwindow;
 
 /*
 * Given an array A of length N. Also given are integers B and C.

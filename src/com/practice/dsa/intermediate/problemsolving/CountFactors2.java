@@ -1,4 +1,4 @@
-package com.anirban.practice.dsa.intermediate.problemsolving;
+package com.practice.dsa.intermediate.problemsolving;
 
 
 /*

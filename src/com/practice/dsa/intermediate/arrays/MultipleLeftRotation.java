@@ -1,4 +1,4 @@
-package com.anirban.practice.dsa.intermediate.arrays;
+package com.practice.dsa.intermediate.arrays;
 
 /*
  * Given an array of integers A and multiple values in B,

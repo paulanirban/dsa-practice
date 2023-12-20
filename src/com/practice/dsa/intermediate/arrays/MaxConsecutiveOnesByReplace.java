@@ -1,4 +1,4 @@
-package com.anirban.practice.dsa.intermediate.arrays;
+package com.practice.dsa.intermediate.arrays;
 
 /*
  * Given a binary array A[i] -> 0 or 1, find the maximum

@@ -1,4 +1,4 @@
-package com.anirban.practice.dsa.beginner.string;
+package com.practice.dsa.beginner.string;
 
 import java.util.Scanner;
 

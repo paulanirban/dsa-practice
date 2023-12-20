@@ -1,4 +1,4 @@
-package com.anirban.practice.dsa.intermediate.arrays;
+package com.practice.dsa.intermediate.arrays;
 
 /*
 * You are given two integer matrices A and B having

@@ -1,4 +1,4 @@
-package com.anirban.practice.lld.callables;
+package com.practice.lld.callables;
 
 import java.util.ArrayList;
 import java.util.concurrent.Callable;

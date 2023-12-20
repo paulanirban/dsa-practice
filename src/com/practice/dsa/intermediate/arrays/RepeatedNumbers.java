@@ -1,4 +1,4 @@
-package com.anirban.practice.dsa.intermediate.arrays;
+package com.practice.dsa.intermediate.arrays;
 
 import java.util.HashMap;
 
