@@ -33,3 +33,10 @@
 > An amazing Substring is one that starts with a vowel (a, e, i, o, u, A, E, I, O, U).
 >
 > Solution : [Click](src/com/practice/dsa/intermediate/arrays/carryforward/AmazingSubstrings.java)
+
+### **5. Josephus Problem**
+> There are A people standing in a circle. Person 1 kills their immediate clockwise neighbour and 
+> pass the knife to the next person standing in circle. This process continues till there is only 1 
+> person remaining. Find the last person standing in the circle.
+>
+> Solution : [Click](src/com/practice/dsa/intermediate/problemsolving/JosephusProblem.java)
