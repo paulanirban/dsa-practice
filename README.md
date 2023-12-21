@@ -51,7 +51,7 @@
 >
 > Solution : [Click](src/com/practice/dsa/intermediate/problemsolving/JosephusProblem.java)
 
-### **6. Count Pairsm**
+### **6. Count Pair**
 > Given a character array, count the number of pairs (i, j) possible s.t. i<j and a[i]='a' and a[j]='g'.
 > 
 > Note : All characters are of lowercase
