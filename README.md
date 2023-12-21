@@ -1,11 +1,21 @@
 # DSA & LLD Practice
 
 - DSA
-  - [DSA - Beginner](#dsa-beginner)
+  - [DSA - Beginner](#dsa---beginner)
   - [DSA - Intermediate](#dsa---intermediate)
   - [DSA - Advance](#dsa-advance)
 - [LLD]
 
+## DSA - DSA-Beginner 
+
+### 1. Easy HCF
+> Write a program to input two integers A & B from user and print their HCF. 
+> Definition Of HCF: The HCF(Highest Common Factor) or the GCD(greatest common divisor) of two 
+> positive integers happens to be the largest positive integer that divides the numbers without leaving a remainder.
+>
+> Note : this is non-recursive way
+> 
+> Solution : [Click](src/com/practice/dsa/beginner/functions/EasyHCF.java)
 
 ## DSA - Intermediate
 
