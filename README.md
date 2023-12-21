@@ -6,7 +6,7 @@
   - [DSA - Advance](#dsa-advance)
 - [LLD]
 
-## DSA - DSA-Beginner 
+## DSA - Beginner
 
 ### 1. Easy HCF
 > Write a program to input two integers A & B from user and print their HCF. 
