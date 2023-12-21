@@ -38,7 +38,7 @@
 > 
 > Solution : [Click](src/com/practice/dsa/intermediate/arrays/MultipleLeftRotation.java)
 
-### **4. Amazing Sub Strings**
+### **4. Carry-Forward: Amazing Sub Strings**
 > You are given a string S, and you have to find all the amazing substrings of S. 
 > An amazing Substring is one that starts with a vowel (a, e, i, o, u, A, E, I, O, U).
 >
@@ -51,9 +51,23 @@
 >
 > Solution : [Click](src/com/practice/dsa/intermediate/problemsolving/JosephusProblem.java)
 
-### **6. Count Pair**
+### **6. Carry-Forward: Count Pair**
 > Given a character array, count the number of pairs (i, j) possible s.t. i<j and a[i]='a' and a[j]='g'.
 > 
 > Note : All characters are of lowercase
 >
 > Solution : [Click](src/com/practice/dsa/intermediate/arrays/carryforward/CountPairs.java)
+
+### **7. Sliding-Window: Subarray Given Sum**
+> Given an array A of length N. Also given are integers B and C. Return 1 if there exists a subarray 
+> with length B having sum C or 0 otherwise
+>
+> Solution : [Click](src/com/practice/dsa/intermediate/slidingwindow/SubarrayGivenSumAndLength.java)
+
+### **8. Carry-Forward: Leaders in an Array**
+> Given an integer array A containing N distinct integers, you have to find all the leaders in array A. 
+> An element is a leader if it is strictly greater than all the elements to its right side.
+>
+> NOTE: The rightmost element is always a leader.
+>
+> Solution : [Click](src/com/practice/dsa/intermediate/arrays/carryforward/LeadersInAnArray.java)
