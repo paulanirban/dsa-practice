@@ -71,3 +71,20 @@
 > NOTE: The rightmost element is always a leader.
 >
 > Solution : [Click](src/com/practice/dsa/intermediate/arrays/carryforward/LeadersInAnArray.java)
+
+### **9. Hashing: Count sub-array zero-sum**
+> Given an array A of N integers. Find the count of the subarrays in the array which sums to zero. 
+> Since the answer can be very large, return the remainder on dividing the result with 10^9+7
+>
+> Solution : [Click](src/com/practice/dsa/intermediate/hashing/CountSubarrayZeroSum.java)
+
+### **10. Hashing: Distinct numbers in window**
+> You are given an array of N integers, A1, A2 ,..., AN and an integer B. Return the of count of 
+> distinct numbers in all windows of size B.
+> 
+> Formally, return an array of size N-B+1 where i'th element in this array contains number of 
+> distinct elements in sequence Ai, Ai+1 ,..., Ai+B-1.
+>
+> NOTE: if B > N, return an empty array.
+>
+> Solution : [Click](src/com/practice/dsa/intermediate/hashing/DistinctNumberInWindow.java)
