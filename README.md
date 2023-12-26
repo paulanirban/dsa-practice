@@ -88,3 +88,42 @@
 > NOTE: if B > N, return an empty array.
 >
 > Solution : [Click](src/com/practice/dsa/intermediate/hashing/DistinctNumberInWindow.java)
+
+### **11. Hashing: Count Pair Sum**
+> You are given an array A of N integers and an integer B. Count the number of pairs (i,j) 
+> such that A[i] + A[j] = B and i ≠ j. 
+> Since the answer can be very large, return the remainder after dividing the count with 109+7.
+> 
+> Note - The pair (i,j) is same as the pair (j,i) and we need to count it only once.
+>
+> Solution : [Click](src/com/practice/dsa/intermediate/hashing/CountPairSum.java)
+
+### **12. Hashing: Count Pair Difference**
+> You are given an array A of N integers and an integer B. 
+> Count the number of pairs (i,j) such that A[i] - A[j] = B and i ≠ j.
+> 
+> Since the answer can be very large, return the remainder after dividing the count with 10^9+7.
+>
+> Solution : [Click](src/com/practice/dsa/intermediate/hashing/CountPairDifference.java)
+
+### **13. Hashing: Pair With Given Difference**
+> Given a one-dimensional unsorted array A containing N integers.
+> You are also given an integer B, find if there exists a pair of elements in the 
+> array whose difference is B. 
+> 
+> Return 1 if any such pair exists else return 0.
+>
+> Solution : [Click](src/com/practice/dsa/intermediate/hashing/PairWithGivenDiff.java)
+
+### **14. Hashing: Pair With Given Difference**
+> Given a one-dimensional String array of "Numbers". Return the count of magic 
+> numbers exist in that array.
+> 
+> Magic Number : Sum of a number and its palindrome.
+> 
+> E.g. in the following given String array of "Numbers", 15 + 51 = 66 and "66" is 
+> available in the array
+> 
+> ["13", "21", "86", "15", "47", "66"]
+>
+> Solution : [Click](src/com/practice/dsa/intermediate/hashing/CountMagicNums.java)
