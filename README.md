@@ -127,3 +127,28 @@
 > ["13", "21", "86", "15", "47", "66"]
 >
 > Solution : [Click](src/com/practice/dsa/intermediate/hashing/CountMagicNums.java)
+
+### **15. Hashing: Subarray with given sum**
+> Given an array of positive integers A and an integer B, 
+> find and return first continuous subarray which adds to B. 
+> 
+> If the answer does not exist return an array with a single integer "-1". 
+> First sub-array means the sub-array for which starting index in minimum.
+>
+> Solution : [Click](src/com/practice/dsa/intermediate/hashing/SubarrayWithGivenSum.java)
+
+### **16. Hashing: Subarray Sum Equals K**
+> Given an array of integers A and an integer B. 
+> Find the total number of subarrays having sum equals to B.
+>
+> Solution : [Click](src/com/practice/dsa/intermediate/hashing/SubarraySumEqualsK.java)
+
+### **17. Hashing: Is Dictionary?**
+> Surprisingly, in an alien language, they also use English lowercase letters, but possibly in a 
+> different order. The order of the alphabet is some permutation of lowercase letters. 
+> 
+> Given an array of words A of size N written in the alien language, and the order of the alphabet 
+> denoted by string B of size 26, return 1 if and only if the given 
+> words are sorted lexicographically in this alien language else, return 0.
+>
+> Solution : [Click](src/com/practice/dsa/intermediate/hashing/IsDictionary.java)
