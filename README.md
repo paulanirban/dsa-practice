@@ -153,7 +153,6 @@
 >
 > Solution : [Click](src/com/practice/dsa/intermediate/hashing/IsDictionary.java)
 
-
 ### **18. Hashing: Valid Sudoku?**
 > Determine if a Sudoku is valid, according to: http://sudoku.com.au/TheRules.aspx
 > The Sudoku board could be partially filled, where empty cells are filled with the character '.'.
