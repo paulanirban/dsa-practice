@@ -169,3 +169,13 @@
 > Return 0 / 1 ( 0 for false, 1 for true ) for this problem
 > 
 > Solution : [Click](src/com/practice/dsa/intermediate/hashing/ValidSudoku.java)
+
+### **19. Hashing: Pairs With Given Xor**
+> Given an integer array A containing N distinct integers. 
+> Find the number of unique pairs of integers in the array whose XOR is equal to B.
+> 
+> Note:
+> 
+> Pair (a, b) and (b, a) is considered to be the same and should be counted once.
+>
+> Solution : [Click](src/com/practice/dsa/intermediate/hashing/PairWithGivenXOR.java)
