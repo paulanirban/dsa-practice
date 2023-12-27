@@ -115,7 +115,7 @@
 >
 > Solution : [Click](src/com/practice/dsa/intermediate/hashing/PairWithGivenDiff.java)
 
-### **14. Hashing: Pair With Given Difference**
+### **14. Hashing: Count Magic Numbers**
 > Given a one-dimensional String array of "Numbers". Return the count of magic 
 > numbers exist in that array.
 > 
