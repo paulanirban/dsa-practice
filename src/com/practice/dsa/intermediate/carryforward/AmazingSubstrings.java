@@ -1,4 +1,4 @@
-package com.practice.dsa.intermediate.arrays.carryforward;
+package com.practice.dsa.intermediate.carryforward;
 
 /*
 * You are given a string S, and you have to find all the amazing substrings of S.

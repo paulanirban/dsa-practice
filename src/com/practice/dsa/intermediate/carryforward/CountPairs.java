@@ -1,4 +1,4 @@
-package com.practice.dsa.intermediate.arrays.carryforward;
+package com.practice.dsa.intermediate.carryforward;
 
 /*
 * Given a character array, count the number of pairs (i, j) possible

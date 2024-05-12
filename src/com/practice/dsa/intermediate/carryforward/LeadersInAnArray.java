@@ -1,4 +1,4 @@
-package com.practice.dsa.intermediate.arrays.carryforward;
+package com.practice.dsa.intermediate.carryforward;
 
 import java.util.ArrayList;
 
